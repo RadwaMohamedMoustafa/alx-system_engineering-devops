@@ -1,3 +1,2 @@
 #!/bin/bash
-user=USER
-printf "hello user\n"
+user=USER printf "hello user\n"
